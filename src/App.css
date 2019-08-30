@@ -1,0 +1,8 @@
+.square {
+    height: 30px;
+    width: 30px;
+}
+
+.game-row {
+    display: flex;
+}
